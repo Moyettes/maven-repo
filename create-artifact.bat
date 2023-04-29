@@ -22,4 +22,4 @@ ELSE goto start
 echo Installing file...
 call mvn install:install-file -DgroupId=%artifact_group% -DartifactId=%artifact_id% -Dversion=%artifact_version% -Dfile="%artifact_path%" -Dpackaging=jar -DlocalRepositoryPath=. -DcreateChecksum=true -DgeneratePom=true
 for /r %%x in (maven-metadata.xml*) do del "%%x"
-for /r %%x in (maven-metadata-local.xml*) do ren "%%x" maven-metadata.xml*
+for /r %%x in (maven-metadata-local.xml*) do copy "%%x" "%%x\..\maven-metadata.xml*"
