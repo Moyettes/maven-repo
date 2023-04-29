@@ -3,10 +3,10 @@
   <groupId>xyz.bluspring</groupId>
   <artifactId>intermediary</artifactId>
   <versioning>
-    <release>b1.2_02</release>
+    <release>a1.0.15</release>
     <versions>
-      <version>b1.2_02</version>
+      <version>a1.0.15</version>
     </versions>
-    <lastUpdated>20230429082034</lastUpdated>
+    <lastUpdated>20230429085414</lastUpdated>
   </versioning>
 </metadata>
