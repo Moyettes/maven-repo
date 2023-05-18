@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mcphackers</groupId>
+  <artifactId>retromcp</artifactId>
+  <versioning>
+    <release>b1.2-server</release>
+    <versions>
+      <version>b1.2-client</version>
+      <version>b1.2-server</version>
+    </versions>
+    <lastUpdated>20230518165702</lastUpdated>
+  </versioning>
+</metadata>
