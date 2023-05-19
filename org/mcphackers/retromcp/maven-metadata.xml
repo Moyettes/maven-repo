@@ -3,11 +3,11 @@
   <groupId>org.mcphackers</groupId>
   <artifactId>retromcp</artifactId>
   <versioning>
-    <release>b1.2-server</release>
+    <release>b1.2_02-server</release>
     <versions>
-      <version>b1.2-client</version>
-      <version>b1.2-server</version>
+      <version>b1.2_02-client</version>
+      <version>b1.2_02-server</version>
     </versions>
-    <lastUpdated>20230518165702</lastUpdated>
+    <lastUpdated>20230519065712</lastUpdated>
   </versioning>
 </metadata>

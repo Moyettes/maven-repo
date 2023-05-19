@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.mcphackers</groupId>
   <artifactId>retromcp</artifactId>
-  <version>b1.2-client</version>
+  <version>b1.2_02-server</version>
   <description>POM was created from install:install-file</description>
 </project>
